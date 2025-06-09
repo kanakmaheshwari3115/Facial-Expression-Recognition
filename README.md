@@ -1,12 +1,9 @@
 # Facial Expression Recognition Model
 
-A chrome extension tool that nostalgically reimagines modern websites into vibrant 90s-style retro designs — complete with neon colors, animated marquees, retro stickers, and playful pop-ups — all while preserving the site's modern functionality.
-
 ## Abstract
-It works by blending AI and front-end web development to deliver real-time aesthetic transformations. It’s part design experiment, part nostalgia engine — ideal for enhancing UX through themed user personalization.
 
-### Tech Stack
+This project centers on the design and implementation of a facial expression recognition model capable of accurately detecting and interpreting human emotions through facial cues. Expression recognition plays a vital role in enhancing human-computer interaction, strengthening security systems, and unlocking deeper insights into emotional behavior. Its applications span a wide range of fields, including healthcare, education, marketing, and entertainment. By harnessing the power of advanced machine learning algorithms, the model aspires to foster more intuitive and empathetic user experiences, support psychological and behavioral research, and enable the delivery of personalized content and services.
 
-* HTML, CSS, JavaScript – Core frontend technologies used to inject 90s-style elements and interactivity.
-* OpenAI – Used for AI-enhanced features like content suggestions, styling decisions, or dynamic text generation.
-* Chrome Extension – To apply transformations to any website in real time.
+### Download the dataset 
+
+Download the dataset to train the model through the following link - https://www.kaggle.com/datasets/msambare/fer2013
